@@ -14,6 +14,12 @@ In this repository dedicated to physics you will find various python codes to ca
 <a name="bullet-motion"></a>
 The code in which the motion of the projectile is calculated calculates how long and at what speed an object falls to the ground, neglecting friction.
 
+![image](https://user-images.githubusercontent.com/94646702/174061784-73df8683-15cb-46d1-ad0d-191e5ee082b2.png)
+![image](https://user-images.githubusercontent.com/94646702/174062075-ea836de1-7fc1-4224-85d0-6305aa64aeef.png)
+
+
+
+
 - First the code asks what the gravity is and sets its half as a variable that will be used in moving forward with the calculations
 ```
 gravity = float(input("inserire  gravità (m/s*s) "))												

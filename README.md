@@ -97,6 +97,15 @@ if ask == ("frequenza"):
 	frequenza=1/Periodo
 	print("la frequenza è ", frequenza,"hz")
 ```
+## New update
+
+With the new update a new type of code was introduced which integrates the open cv2 library. this code allows in real time with the camera of the device to understand in advance if the shot will be successful through the laws of physics
+
+
+
+
+https://user-images.githubusercontent.com/94646702/214673055-d798b616-d8ff-4036-8031-8f0e65463b79.mov
+
 
 ## Pendulum
 <a name="pendulum"></a>
